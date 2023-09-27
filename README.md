@@ -1,6 +1,6 @@
 # ProjetoPython
 
-Dataset utilizado: lista de filmes e series disponiveis na Netflix. A tabela possui os seguintes atributos:
+O dataset utilizado é uma lista de filmes e séries disponíveis na Netflix. A tabela contém os seguintes atributos:
 -ID 
 -Tipo(Série ou filme)
 -Titulo
@@ -15,3 +15,18 @@ Dataset utilizado: lista de filmes e series disponiveis na Netflix. A tabela pos
 -Descrição
 
 Link: https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download
+
+O programa permite as seguintes análises:
+- Visualização da quantidade de filmes e séries produzidos por país.
+- Visualização da distribuição de filmes e séries com base nas classificações etárias.
+- Listagem das durações dos filmes.
+- Os dez gêneros mais populares na tabela.
+- Análise da quantidade de filmes produzidos anualmente.
+
+O usuário interage com o programa por meio de um menu, selecionando quais análises deseja acessar.
+
+Foram gerados gráficos de colunas e gráficos de barras.
+
+Integrantes da equipe:
+- Mariana Marques Braguim
+- Hiran Pereira Leite
