@@ -27,6 +27,11 @@ O usuário interage com o programa por meio de um menu, selecionando quais anál
 
 Foram gerados gráficos de colunas e gráficos de barras.
 
+Divisão do projeto:
+
+Mariana - Responsavel pelo código(Program.py)
+Hiran - Responsável pelos gráficos do projeto(CodigoGrafico.py)
+
 Integrantes da equipe:
 - Mariana Marques Braguim
 - Hiran Pereira Leite
