@@ -145,4 +145,4 @@ graf_h("Ratings","Gráfico de Ratings",ratings,counts, 20, 10)
 
 graf_h("Gênero","Top 10 Gêneros foda", [genre for genre, _ in top_10_genres], [count for _, count in top_10_genres], 20, 10)
 
-graf_h("Ano de Lançamento","Top 10 Anos com Maior Número de Filmes Lançados", top_10_years.index.astype(str), top_10_years.values, 20, 10)
+graf_h("Ano de Lançamento","Top 10 Anos com Maior Número de Filmes Lançados", top_10_years.index.astype(str), top_10_years.values,20,10)
